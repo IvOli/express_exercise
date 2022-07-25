@@ -1,0 +1,19 @@
+{
+  "name": "express_module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon run dev"
+  },
+  "keywords": [],
+  "author": "David Oliva <divoliva@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.9",
+    "nodemon": "^2.0.19"
+  }
+}
